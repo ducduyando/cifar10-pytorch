@@ -45,7 +45,6 @@ Results:
 
 ## Project Structure
 
-```text
 cifar10-pytorch/
 ├── notebooks/
 │   └── experiment.ipynb
