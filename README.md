@@ -41,10 +41,11 @@ Training configuration:
 
 Results:
 
-- Test Accuracy: 53.6%
+- Test Accuracy: 51.9%
 
 ## Project Structure
 
+```text
 cifar10-pytorch/
 ├── notebooks/
 │   └── experiment.ipynb
@@ -54,6 +55,7 @@ cifar10-pytorch/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ### Accuracy
 
